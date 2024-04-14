@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D6410D5E2BCBF07D00D226DA /* RatingObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6410D5D2BCBF07D00D226DA /* RatingObject.swift */; };
 		D6427E842BA81E7900C69586 /* SwiftUIMVPatternDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6427E832BA81E7900C69586 /* SwiftUIMVPatternDemoApp.swift */; };
 		D6427E862BA81E7900C69586 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6427E852BA81E7900C69586 /* ContentView.swift */; };
 		D6427E882BA81E7A00C69586 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6427E872BA81E7A00C69586 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D6410D5D2BCBF07D00D226DA /* RatingObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingObject.swift; sourceTree = "<group>"; };
 		D6427E802BA81E7900C69586 /* SwiftUIMVPatternDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIMVPatternDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6427E832BA81E7900C69586 /* SwiftUIMVPatternDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIMVPatternDemoApp.swift; sourceTree = "<group>"; };
 		D6427E852BA81E7900C69586 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 			children = (
 				D6427EC02BA82F5F00C69586 /* Product.swift */,
 				D6427EC22BA82F8400C69586 /* ProductModel.swift */,
+				D6410D5D2BCBF07D00D226DA /* RatingObject.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -312,6 +315,7 @@
 			files = (
 				D6427E862BA81E7900C69586 /* ContentView.swift in Sources */,
 				D6427EC32BA82F8400C69586 /* ProductModel.swift in Sources */,
+				D6410D5E2BCBF07D00D226DA /* RatingObject.swift in Sources */,
 				D6427E842BA81E7900C69586 /* SwiftUIMVPatternDemoApp.swift in Sources */,
 				D6427EAF2BA823A900C69586 /* ProductServices.swift in Sources */,
 				D6427EC12BA82F5F00C69586 /* Product.swift in Sources */,
